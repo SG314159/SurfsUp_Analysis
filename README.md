@@ -12,7 +12,7 @@ The last question from a possible investor in our surf shop is about the viabili
 
 # Results
 The tables show the results for all June temperatures and December temperatures for the dates in the dataset.
-![June And December temperatures](_insert_link)
+![June And December temperatures](https://github.com/SG314159/SurfsUp_Analysis/blob/main/JuneAndDecember.PNG)
 
 Major points to note from these results are:
 1. The mean temperatures are close together, 74.9 degrees vs. 71.04 degrees, and the standard deviations are also similar. Thus although it is slightly cooler on average in December, with slightly higher variation in temperature as well, the two months have very similar temperatures.
